@@ -53,7 +53,13 @@ public class Prime extends MyFrame2 {
 		int x;
 		int y;
 		for (int i=0 ; i<n ; i++) {
-			setColor(0,0,0);
+			if(i<3) {
+				setColor(0,0,0);
+			}
+			else {
+				
+			}
+			
 			int a=i%10;
 			int b=i/10;
 			x=30+20*a;
