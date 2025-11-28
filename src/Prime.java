@@ -1,5 +1,4 @@
 //R4_7
-<<<<<<< HEAD
 /*public class Prime extends MyFrame2 {
 	
 	int n=47+50;
@@ -31,7 +30,6 @@
 		MyFrame2 frame1=new Prime();
 		frame1.setLocation(200,100);
 		frame1.setSize(300,600);
-=======
 /*
 public class Prime extends MyFrame2 {
 	public void run() {
